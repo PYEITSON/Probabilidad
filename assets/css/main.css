@@ -126,12 +126,12 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 2em;
+		font-size: 3em;
 		letter-spacing: -1px;
 	}
 
 		h2.alt {
-			color: #888;
+			color: #000080;
 		}
 
 			h2.alt strong {
