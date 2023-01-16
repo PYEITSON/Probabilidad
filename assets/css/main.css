@@ -218,7 +218,7 @@ input, select, textarea {
 		width: 1400px;
 	}
 
-		@media screen and (min-width: 961px) and (max-width: 1880px) {
+		@media screen and (min-width: 768px) and (max-width: 1880px) {
 
 			.container {
 				width: 1200px;
@@ -226,7 +226,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (min-width: 961px) and (max-width: 1620px) {
+		@media screen and (min-width: 768px) and (max-width: 1620px) {
 
 			.container {
 				width: 960px;
@@ -234,7 +234,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (min-width: 961px) and (max-width: 1320px) {
+		@media screen and (min-width: 768px) and (max-width: 1320px) {
 
 			.container {
 				width: 100%;
@@ -242,7 +242,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 960px) {
+		@media screen and (max-width: 768px) {
 
 			.container {
 				width: 100%;
@@ -257,6 +257,13 @@ input, select, textarea {
 			}
 
 		}
+
+.container .related-post {
+	display: grid;
+	grid-columns: repeat(5, 1f)
+	
+}
+
 
 /* Row */
 
@@ -501,7 +508,7 @@ input, select, textarea {
 					padding-top: 80px;
 				}
 
-		@media screen and (min-width: 961px) and (max-width: 1880px) {
+		@media screen and (min-width: 768px) and (max-width: 1880px) {
 
 			.row {
 				display: flex;
@@ -746,7 +753,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (min-width: 961px) and (max-width: 1620px) {
+		@media screen and (min-width: 768px) and (max-width: 1620px) {
 
 			.row {
 				display: flex;
@@ -991,7 +998,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (min-width: 961px) and (max-width: 1320px) {
+		@media screen and (min-width: 768px) and (max-width: 1320px) {
 
 			.row {
 				display: flex;
@@ -1236,7 +1243,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 960px) {
+		@media screen and (max-width: 768px) {
 
 			.row {
 				display: flex;
@@ -2296,7 +2303,7 @@ input, select, textarea {
 
 /* Normal */
 
-	@media screen and (min-width: 961px) and (max-width: 1620px) {
+	@media screen and (min-width: 768px) and (max-width: 1620px) {
 
 		/* Main */
 
@@ -2312,7 +2319,7 @@ input, select, textarea {
 
 /* Narrow */
 
-	@media screen and (min-width: 961px) and (max-width: 1320px) {
+	@media screen and (min-width: 768px) and (max-width: 1320px) {
 
 		/* Basic */
 
@@ -2383,7 +2390,7 @@ input, select, textarea {
 		display: none;
 	}
 
-	@media screen and (max-width: 960px) {
+	@media screen and (max-width: 768px) {
 
 		/* Basic */
 
