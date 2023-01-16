@@ -516,7 +516,7 @@ input, select, textarea {
 					padding-top: 80px;
 				}
 
-		@media screen and (min-width: 768px) and (max-width: 1880px) {
+		@media screen and (min-width: 768px) and (max-width: 1260px) {
 
 			.row {
 				display: flex;
@@ -761,7 +761,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (min-width: 768px) and (max-width: 1620px) {
+		@media screen and (min-width: 768px) and (max-width: 1260px) {
 
 			.row {
 				display: flex;
@@ -1006,7 +1006,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (min-width: 768px) and (max-width: 1320px) {
+		@media screen and (min-width: 768px) and (max-width: 1260px) {
 
 			.row {
 				display: flex;
@@ -2281,7 +2281,7 @@ input, select, textarea {
 
 /* Wide */
 
-	@media screen and (min-width: 961px) and (max-width: 1880px) {
+	@media screen and (min-width: 768px) and (max-width: 1260px) {
 
 		/* Basic */
 
@@ -2311,7 +2311,7 @@ input, select, textarea {
 
 /* Normal */
 
-	@media screen and (min-width: 768px) and (max-width: 1620px) {
+	@media screen and (min-width: 768px) and (max-width: 1260px) {
 
 		/* Main */
 
@@ -2327,7 +2327,7 @@ input, select, textarea {
 
 /* Narrow */
 
-	@media screen and (min-width: 768px) and (max-width: 1320px) {
+	@media screen and (min-width: 768px) and (max-width: 1268px) {
 
 		/* Basic */
 
