@@ -258,9 +258,12 @@ input, select, textarea {
 
 		}
 
-.container .related-post {
+.container <.related-post {
 	display: grid;
-	grid-columns: repeat(5, 1f)
+	grid-template-columns: repeat(5, 1f);
+	background: #ffff;
+	padding: 20px;
+	color: solid #00000;
 	
 }
 
