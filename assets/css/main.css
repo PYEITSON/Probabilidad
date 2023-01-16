@@ -218,7 +218,7 @@ input, select, textarea {
 		width: 1400px;
 	}
 
-		@media screen and (min-width: 768px) and (max-width: 1880px) {
+		@media screen and (min-width: 768px) and (max-width: 1260px) {
 
 			.container {
 				width: 768px;
@@ -226,7 +226,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (min-width: 768px) and (max-width: 1620px) {
+		@media screen and (min-width: 768px) and (max-width: 1260px) {
 
 			.container {
 				width: 768px;
@@ -234,7 +234,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (min-width: 768px) and (max-width: 1320px) {
+		@media screen and (min-width: 768px) and (max-width: 1260px) {
 
 			.container {
 				width: 100%;
@@ -260,7 +260,7 @@ input, select, textarea {
 /* clase three */
 .three {
 	display: grid;
-	grid-template-columns: repeat(5, 1f);
+	grid-template-columns: repeat(3, 1f);
 	
 	
 }
