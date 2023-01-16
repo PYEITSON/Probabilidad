@@ -258,7 +258,7 @@ input, select, textarea {
 
 		}
 
-.container <.related-post {
+.related-post div{
 	display: grid;
 	grid-template-columns: repeat(5, 1f);
 	background: #ffff;
