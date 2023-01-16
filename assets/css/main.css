@@ -221,7 +221,7 @@ input, select, textarea {
 		@media screen and (min-width: 768px) and (max-width: 1880px) {
 
 			.container {
-				width: 1200px;
+				width: 768px;
 			}
 
 		}
@@ -229,7 +229,7 @@ input, select, textarea {
 		@media screen and (min-width: 768px) and (max-width: 1620px) {
 
 			.container {
-				width: 960px;
+				width: 768px;
 			}
 
 		}
@@ -258,7 +258,7 @@ input, select, textarea {
 
 		}
 
-.related-post div{
+.three .related-post {
 	display: grid;
 	grid-template-columns: repeat(5, 1f);
 	background: #ffff;
