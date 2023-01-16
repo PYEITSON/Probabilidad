@@ -257,10 +257,15 @@ input, select, textarea {
 			}
 
 		}
-
-.three .related-post {
+/* clase three */
+.three {
 	display: grid;
 	grid-template-columns: repeat(5, 1f);
+	
+	
+}
+
+.three div {
 	background: #ffff;
 	padding: 20px;
 	color: solid #00000;
